@@ -7,4 +7,4 @@ The goal of this competition is to predict which passengers on the Titanic survi
 
 Data for this project can be viewed here: [Kaggle.com - Titanic: Machine Learning from Disaster - Data](https://www.kaggle.com/c/titanic/data)
 
-View the notebook using Jupyter nbviewer: [https://nbviewer.jupyter.org/github/KathrynDH/Titanic-Kaggle/blob/master/pipelinesgridsearch-titanic-disaster.ipynb](https://nbviewer.jupyter.org/github/KathrynDH/Titanic-Kaggle/blob/master/pipelinesgridsearch-titanic-disaster.ipynb)
+View the notebook using Jupyter nbviewer: [https://nbviewer.jupyter.org/github/KathrynDH/TitanicPredictions-Kaggle/blob/main/pipelinesgridsearch-titanic-disaster.ipynb](https://nbviewer.jupyter.org/github/KathrynDH/TitanicPredictions-Kaggle/blob/main/pipelinesgridsearch-titanic-disaster.ipynb)
